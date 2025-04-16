@@ -1,9 +1,9 @@
 @echo off
 color 0a
-title Fake Hacking Program - Initiating...
+title SuHACK
 
 cls
-echo Starting fake hacking program...
+echo SUHACK
 ping 127.0.0.1 -n 3
 cls
 
